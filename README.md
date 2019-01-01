@@ -14,3 +14,7 @@ This will have
 - headphone jack
 - infrared rx/tx for possible multiplayer comms
 - optional mini joystick
+
+# Forum discussion
+The Arduboy forum has [a thread](https://community.arduboy.com/t/wip-simon-merretts-arduboy-clone/6676) relevant to this design
+
